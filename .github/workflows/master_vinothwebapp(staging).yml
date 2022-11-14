@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'vinothwebapp'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B23DE8A7529F4FD8AC581C5918CFEEC3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA2ECEDFDED3449F98EF04BEF74DB708 }}
           package: .
