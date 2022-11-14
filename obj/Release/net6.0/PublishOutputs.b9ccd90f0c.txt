@@ -1,0 +1,7 @@
+C:\Users\Z004KCFK\Desktop\AZ-204 Training\azuresolution\demowebapp01\obj\Release\net6.0\PubTmp\Out\demowebapp01.exe
+C:\Users\Z004KCFK\Desktop\AZ-204 Training\azuresolution\demowebapp01\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Z004KCFK\Desktop\AZ-204 Training\azuresolution\demowebapp01\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Z004KCFK\Desktop\AZ-204 Training\azuresolution\demowebapp01\obj\Release\net6.0\PubTmp\Out\demowebapp01.dll
+C:\Users\Z004KCFK\Desktop\AZ-204 Training\azuresolution\demowebapp01\obj\Release\net6.0\PubTmp\Out\demowebapp01.deps.json
+C:\Users\Z004KCFK\Desktop\AZ-204 Training\azuresolution\demowebapp01\obj\Release\net6.0\PubTmp\Out\demowebapp01.runtimeconfig.json
+C:\Users\Z004KCFK\Desktop\AZ-204 Training\azuresolution\demowebapp01\obj\Release\net6.0\PubTmp\Out\demowebapp01.pdb
